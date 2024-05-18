@@ -12,7 +12,7 @@
 ```javascript
 const Ben-Gi = {
     pronouns: "He" | "Him",
-    code: ["Jave", "Go", "C#", "Pyhon"],
+    code: ["Jave", "Go", "C#", "Pyhon", "Dart", "Kotlin"],
     askMeAbout: ["web dev", "tech", "app dev", "Productivity"],
     technologies: {
         backEnd: {
