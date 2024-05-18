@@ -16,7 +16,7 @@ const Ben-Gi = {
     askMeAbout: ["web dev", "tech", "app dev", "Productivity"],
     technologies: {
         backEnd: {
-            js: ["Spring Boot", "Gin", "Express", "Node.js", "FastAPI"],
+            : ["Spring Boot", "Gin", "Express", "Node.js", "FastAPI"],
         },
         mobileApp: {
             native: ["Android Development"]
