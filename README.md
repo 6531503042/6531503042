@@ -34,4 +34,75 @@ const Ben-Gi = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 207.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 84 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+🌆 Daytime                89 commits          ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+🌃 Evening                150 commits         █████████████░░░░░░░░░░░░   50.34 % 
+🌙 Night                  42 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   60 commits          █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Tuesday                  55 commits          █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+Wednesday                32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Thursday                 30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Friday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Saturday                 60 commits          █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Sunday                   43 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     28 repos            █████████████████████░░░░   84.85 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+```
+
+
+
+
+ Last Updated on 18/05/2024 14:53:43 UTC
 <!--END_SECTION:waka-->
