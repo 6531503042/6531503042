@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/L3nWlmgyqCeU8/giphy.gif" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/bread-L3nWlmgyqCeU8">via GIPHY</a></p>สวัสดีครับ Hi! I'm Ben-Gi!</h2>
+<h2><img src="https://media.giphy.com/media/L3nWlmgyqCeU8/giphy.gif" width="30" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/bread-L3nWlmgyqCeU8">via GIPHY</a></p>สวัสดีครับ Hi! I'm Ben-Gi!</h2>
 <p><em>Studying Software Engineering 2nd Year at <a href="https://en.mfu.ac.th/home.html"> Mae Fah Luang University.
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 
