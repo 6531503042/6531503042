@@ -34,7 +34,9 @@ const Ben-Gi = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-151-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2056%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-164-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -109,5 +111,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2024 03:08:38 UTC
+ Last Updated on 19/05/2024 04:09:12 UTC
 <!--END_SECTION:waka-->
