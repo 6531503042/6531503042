@@ -27,7 +27,8 @@ const Ben-Gi = {
     },
     architecture: ["Microservices Architecture", "Monolithic Architecture", "Single page applications"],
     currentFocus: "Focus on Productivity & Improve skills",
-    funFact: "In Java, I spend a lot of time writing exception types. It feels like you have to catch everything, just like in baseball."
+    funFact: "In Java, I spend a lot of time writing exception types. 
+                It feels like you have to catch everything, just like in baseball."
 };
 ```
 
