@@ -35,7 +35,7 @@ const Ben-Gi = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-230-blue)
 
@@ -44,8 +44,6 @@ const Ben-Gi = {
 **🐱 My GitHub Data** 
 
 > 📦 212.8 kB Used in GitHub's Storage 
- > 
-> 🏆 110 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -114,5 +112,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2024 10:07:27 UTC
+ Last Updated on 21/05/2024 11:03:21 UTC
 <!--END_SECTION:waka-->
