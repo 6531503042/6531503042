@@ -10,6 +10,13 @@
 <br />
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100"> A little more about me...  
 <br />
+<hr> <!-- Horizontal line -->
+<br />
+I want to make the line on the 
+<br />
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100"> A little more about me...  
+<br />
+
 Again, I'm Nimit Tanboontor, but you can call me Ben or Ben-Gi 😁. I'm a 2nd year software engineer student at Mae Fah Luang University who focus on the learning new architecture.
 Yes, I'm a Backend developer but not focus only that much. I also interested in the world of the cloud and DevOps too. (And a little bit of Frontend skills 😂)
 
