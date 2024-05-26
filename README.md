@@ -101,6 +101,7 @@ Architecture:
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> Monolithic Architecture</code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> Single Page Applications</code>
 <code><img height="25" src="https://grpc.io/img/logos/grpc-icon-color.png" /> gRPC</code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" /> Maven Multi-Module Project</code>
 
 
 Others:
