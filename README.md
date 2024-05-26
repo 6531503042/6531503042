@@ -9,6 +9,7 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://6531503042.github.io/Portfolio-BenGi/)](https://6531503042.github.io/Portfolio-BenGi/)
 <br />
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100"> A little more about me...  
+<br />
 Again, I'm Nimit Tanboontor, but you can call me Ben or Ben-Gi 😁. I'm a 2nd year software engineer student at Mae Fah Luang University who focus on the learning new architecture.
 Yes, I'm a Backend developer but not focus only that much. I also interested in the world of the cloud and DevOps too. (And a little bit of Frontend skills 😂)
 
