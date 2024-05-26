@@ -12,8 +12,12 @@
 
 <hr> <!-- Horizontal line -->
 
-Again, I'm Nimit Tanboontor, but you can call me Ben or Ben-Gi 😁. I'm a 2nd year software engineer student at Mae Fah Luang University who focus on the learning new architecture.<br>
-Yes, I'm a Backend developer but not focus only that much. I also interested in the world of the cloud and DevOps too. (And a little bit of Frontend skills 😂)<br>
+### (correct icon) 
+Again, I'm Nimit Tanboontor, but you can call me Ben or Ben-Gi 😁. I'm a 2nd year software engineer student at Mae Fah Luang University who focuses on learning new architectures.
+
+### (incorrect icon) 
+Yes, I'm a Backend developer, but I'm not focused solely on that. I'm also interested in the world of cloud computing and DevOps. (And I have a bit of Frontend skills too! 😂)
+
 
 - 👨🏽‍💻 I’m currently studying as a software engineering student (and currently working on side - project)
 - 💭 I want to be a Cloud developer
