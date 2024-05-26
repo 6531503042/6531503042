@@ -1,38 +1,115 @@
-<h2><p><a href="https://giphy.com/gifs/bread-L3nWlmgyqCeU8"></a></p>สวัสดีครับ <img src="https://media.giphy.com/media/L3nWlmgyqCeU8/giphy.gif" width="90" frameBorder="0" class="giphy-embed" allowFullScreen></img> Hi! I'm Ben-Gi!</h2>
+# Hi, I'm Nimit Tanboontor (Ben_Gi) ✌😄
 <p><em>Studying Software Engineering 2nd Year at <a href="https://en.mfu.ac.th/home.html"> Mae Fah Luang University.
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 
 
-[![Linkedin: Ben-Gi](https://img.shields.io/badge/-BenGi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nimit-tanbooutor-798139246/)](https://www.linkedin.com/in/nimit-tanbooutor-798139246/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/thanaphoom-babparn/](https://www.linkedin.com/in/nimit-tanbooutor-798139246/))
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nimittanbooutor)
 ![GitHub followers](https://img.shields.io/github/followers/6531503042?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://6531503042.github.io/Portfolio-BenGi/)](https://6531503042.github.io/Portfolio-BenGi/)
+<br />
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const Ben-Gi = {
-    pronouns: "He" | "Him",
-    code: ["Jave", "Go", "C#", "Pyhon", "Dart", "Kotlin"],
-    askMeAbout: ["web dev", "tech", "app dev", "Productivity"],
-    technologies: {
-        backEnd: {
-            : ["Spring Boot", "Gin", "Express", "Node.js", "FastAPI"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["GCP", "Docker🐳"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "PyTorch"]
-    },
-    architecture: ["Microservices Architecture", "Monolithic Architecture", "Single page applications"],
-    currentFocus: "Focus on Productivity & Improve skills",
-    funFact: "In Java, I spend a lot of time writing exception types. 
-                It feels like you have to catch everything, just like in baseball."
-};
-```
+## Talking About Me
+Again, I'm Nimit Tanboontor, but you can call me Ben or Ben-Gi 😁. I'm a 2nd year software engineer student at Mae Fah Luang University who focus on the learning new architecture.
+Yes, I'm a Backend developer but not focus only that much. I also interested in the world of the cloud and DevOps too. (And a little bit of Frontend skills 😂)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+- 👨🏽‍💻 I’m currently studying as a software engineering student (and currently working on side - project)
+- 💭 I want to be a Cloud developer
+- ❤ I love to create business/enterprise backend or build somethings that value people
+- 🌱 I’m currently learning on Go backend development & another stuff on the server-side e.g. Kubernetes, API Gateway, Microservices, gRPC....
+- 📫 How to reach me: nimittanbooutor@gmail.com
+- ⚡ Fun fact: I want to work at Big Tech companies in UK/EU and live there. 🥺
+
+Little Joke!
+
+!funFact: "In Java, I spend a lot of time writing exception types. 
+                It feels like you have to catch everything, just like in baseball."
+
+
+<br />
+
+
+## Languages and Tools
+
+Language:
+
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/></code>
+
+Backend:
+
+<code><img height="25" src="https://springboottutorials.files.wordpress.com/2018/03/cropped-springboot.png?w=128"></code>
+<code><img height="25" src="https://www.ivankrizsan.se/wp-content/uploads/2019/12/spring_webflux_logo.png"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /></code>
+
+Frontend:
+
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/></code>
+
+
+Database:
+
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" /></code>
+
+
+
+Real-World Software Engineering Tools:
+
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" /></code>
+
+
+Cloud & Deployment:
+
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" /></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/69472009/117048318-1a38ec80-ad39-11eb-9f2c-73e0412ed81b.png" /></code>
+
+Architecture:
+
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /> Microservices Architecture</code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> Monolithic Architecture</code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> Single Page Applications</code>
+<code><img height="25" src="https://grpc.io/img/logos/grpc-icon-color.png" /> gRPC</code>
+
+
+Others:
+
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
+
+<br />
+
+## My Github Stats
+
+[![All Stats](https://github-readme-stats.vercel.app/api?username=marttp&show_icons=true&theme=algolia)](https://github.com/6531503042)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marttp&layout=compact&theme=algolia)](https://github.com/6531503042)
+
+<br />
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2043%20mins-blue)
@@ -44,6 +121,8 @@ const Ben-Gi = {
 **🐱 My GitHub Data** 
 
 > 📦 239.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 112 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,5 +188,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2024 09:06:49 UTC
+ Last Updated on 26/05/2024 08:08:07 UTC
 <!--END_SECTION:waka-->
