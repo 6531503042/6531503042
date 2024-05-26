@@ -45,6 +45,8 @@ const Ben-Gi = {
 
 > 📦 239.1 kB Used in GitHub's Storage 
  > 
+> 🏆 112 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -109,5 +111,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2024 07:04:12 UTC
+ Last Updated on 26/05/2024 08:08:07 UTC
 <!--END_SECTION:waka-->
