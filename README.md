@@ -20,14 +20,15 @@ Yes, I'm a Backend developer but not focus only that much. I also interested in 
 - ❤ I love to create business/enterprise backend or build somethings that value people
 - 🌱 I’m currently learning on Go backend development & another stuff on the server-side e.g. Kubernetes, API Gateway, Microservices, gRPC....
 - 📫 How to reach me: nimittanbooutor@gmail.com
-- ⚡ Fun fact: I want to work at Fin-Tech companies like 
-IBM: <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg"/></code>
-Accenture: <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/accenture/accenture-original.svg"/></code>
-KBTG: <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kbtg/kbtg-original.svg"/></code> (Note: KBTG doesn't have an official icon, so I used a custom one)
-Agoda: <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/agoda/agoda-original.svg"/></code> (Note: Agoda doesn't have an official icon, so I used a custom one)
-Deloitte: <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/deloitte/deloitte-original.svg"/></code>
-🥺
+- ⚡ Fun fact: I want to work at Fin-Tech companies like IBM, Accenture, KBTG, Agoda, and Deloitte etc. 🥺
 
+<p align="center">
+  <a href="https://www.ibm.com"><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" /></a>
+  <a href="https://www.accenture.com"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Accenture.svg" /></a>
+  <a href="https://www.kbtg.tech"><img height="25" src="https://upload.wikimedia.org/wikipedia/en/1/1c/KBTG_logo.png" /></a>
+  <a href="https://www.agoda.com"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Agoda_Logo.png" /></a>
+  <a href="https://www2.deloitte.com"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Deloitte_logo.png" /></a>
+</p>
 
 
 Little Joke!
