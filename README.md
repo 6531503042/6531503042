@@ -23,11 +23,11 @@ Yes, I'm a Backend developer but not focus only that much. I also interested in 
 
 - ⚡ Fun fact: I want to work at Fin-Tech companies like IBM, Accenture, KBTG, Agoda, and Deloitte etc. 🥺
 
-  <a href="https://www.ibm.com"><img height="25" src="ibm.png" /></a>
-  <a href="https://www.accenture.com"><img height="25" src="accenture.jpeg" /></a>
-  <a href="https://www.kbtg.tech"><img height="25" src="kbtg.png" /></a>
-  <a href="https://www.agoda.com"><img height="25" src="agoda.png" /></a>
-  <a href="https://www2.deloitte.com"><img height="25" src="Deloitte.png" /></a>
+  <a href="https://www.ibm.com"><img height="50" src="ibm.png" /></a>
+  <a href="https://www.accenture.com"><img height="50" src="accenture.jpeg" /></a>
+  <a href="https://www.kbtg.tech"><img height="50" src="kbtg.png" /></a>
+  <a href="https://www.agoda.com"><img height="50" src="agoda.png" /></a>
+  <a href="https://www2.deloitte.com"><img height="50" src="Deloitte.png" /></a>
 
 
 
