@@ -104,9 +104,9 @@ Others:
 
 ## My Github Stats
 
-[![All Stats](https://github-readme-stats.vercel.app/api?username=marttp&show_icons=true&theme=algolia)](https://github.com/6531503042)
+[![All Stats](https://github-readme-stats.vercel.app/api?username=6531503042&show_icons=true&theme=algolia)](https://github.com/6531503042)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marttp&layout=compact&theme=algolia)](https://github.com/6531503042)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6531503042&layout=compact&theme=algolia)](https://github.com/6531503042)
 
 <br />
 
