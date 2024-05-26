@@ -21,11 +21,15 @@ Yes, I'm a Backend developer but not focus only that much. I also interested in 
 - 🌱 I’m currently learning on Go backend development & another stuff on the server-side e.g. Kubernetes, API Gateway, Microservices, gRPC....
 - 📫 How to reach me: nimittanbooutor@gmail.com
 - ⚡ Fun fact: I want to work at Fin-Tech companies like IBM, Accenture, KBTG, Agoda, and Deloitte etc. 🥺
-- <a href="https://www.ibm.com"><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" /></a>
+
+<p align="center">
+  <a href="https://www.ibm.com"><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" /></a>
   <a href="https://www.accenture.com"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Accenture.svg" /></a>
-  <a href="https://www.kbtg.tech"><img height="25" src="https://www.kbtg.tech/assets/img/logo-white.png" /></a>
+  <a href="https://www.kbtg.tech"><img height="25" src="https://upload.wikimedia.org/wikipedia/en/1/1c/KBTG_logo.png" /></a>
   <a href="https://www.agoda.com"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Agoda_Logo.png" /></a>
-  <a href="https://www2.deloitte.com"><img height="25" src="https://www2.deloitte.com/content/dam/insights/us/articles/us34352_The-quantum-leap/DI_QTM-Deloitte-logo.jpg" /></a>
+  <a href="https://www2.deloitte.com"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Deloitte_logo.png" /></a>
+</p>
+
 
 Little Joke!
 
