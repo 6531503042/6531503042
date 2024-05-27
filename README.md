@@ -14,7 +14,7 @@
 
 &#10004;Again, I'm Nimit Tanboontor, but you can call me Ben or Ben-Gi 😁. I'm a 2nd year software engineer student at Mae Fah Luang University who focuses on learning new architectures.
 
-&#10007;Yes, I'm a Backend developer, but I'm not focused solely on that. I'm also interested in the world of cloud computing and DevOps. (And I have a bit of Frontend skills too! 😂)
+&#10007;Yes, I'm a Backend developer, but I'm not focused solely on that. I'm also interested in the world of cloud computing and Data Field and AI. (And I have a bit of Frontend skills too! 😂)
 
 
 - 👨🏽‍💻 I’m currently studying as a software engineering student (and currently working on side - project)
