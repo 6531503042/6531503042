@@ -60,7 +60,9 @@ Backend:
 <code><img height="25" src="https://springboottutorials.files.wordpress.com/2018/03/cropped-springboot.png?w=128"></code>
 <code><img height="25" src="https://www.ivankrizsan.se/wp-content/uploads/2019/12/spring_webflux_logo.png"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /></code>
+
 
 Frontend:
 
@@ -86,6 +88,7 @@ Real-World Software Engineering Tools:
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" /></code>
+
 
 
 Cloud & Deployment:
