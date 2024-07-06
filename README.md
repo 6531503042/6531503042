@@ -43,13 +43,7 @@ Little Joke!
 
 
 ## Languages and Tools
-### **Programming Languages**
 
-* [![JavaScript](https://img.shields.io/badge/JavaScript-EFF7F6?logo=JavaScript)][github]
-* [![TypeScript](https://img.shields.io/badge/TypeScript-EFF7F6?logo=TypeScript)][github]
-* [![Dart](https://img.shields.io/badge/Dart-EFF7F6?logo=Dart&logoColor=4597CE)][github]
-* [![Dart](https://img.shields.io/badge/Java-EFF7F6?logo=Java&logoColor=4597CE)][github]
-* [![Dart](https://img.shields.io/badge/Python-EFF7F6?logo=Python&logoColor=4597CE)][github]
 
 Language:
 
