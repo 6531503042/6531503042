@@ -124,6 +124,8 @@ Others:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6531503042&layout=compact&theme=algolia)](https://github.com/6531503042)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=6531503042&" alt="6531503042" /></p>
+
 <br />
 
 
