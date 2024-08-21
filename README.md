@@ -140,8 +140,6 @@ Others:
 
 > 📦 732.0 kB Used in GitHub's Storage 
  > 
-> 🏆 608 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 35 Public Repositories 
@@ -208,5 +206,5 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2024 23:09:29 UTC
+ Last Updated on 21/08/2024 00:33:55 UTC
 <!--END_SECTION:waka-->
