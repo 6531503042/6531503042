@@ -138,9 +138,7 @@ Others:
 
 **🐱 My GitHub Data** 
 
-> 📦 733.7 kB Used in GitHub's Storage 
- > 
-> 🏆 700 Contributions in the Year 2024
+> 📦 733.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -208,5 +206,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2024 04:10:47 UTC
+ Last Updated on 30/08/2024 05:08:48 UTC
 <!--END_SECTION:waka-->
