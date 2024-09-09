@@ -140,8 +140,6 @@ Others:
 
 > 📦 735.0 kB Used in GitHub's Storage 
  > 
-> 🏆 895 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 38 Public Repositories 
@@ -206,5 +204,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2024 07:09:26 UTC
+ Last Updated on 09/09/2024 08:12:52 UTC
 <!--END_SECTION:waka-->
