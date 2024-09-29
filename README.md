@@ -130,7 +130,7 @@ Others:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -139,6 +139,8 @@ Others:
 **🐱 My GitHub Data** 
 
 > 📦 737.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,030 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -173,17 +175,17 @@ Sunday                   472 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       7 hrs 48 mins       █████████████████████████   99.98 % 
+Go                       6 hrs 20 mins       █████████████████████████   99.98 % 
 Protocol Buffer          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Sport-Complex            7 hrs 48 mins       █████████████████████████   100.00 % 
+Sport-Complex            6 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 48 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -199,5 +201,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2024 17:06:21 UTC
+ Last Updated on 29/09/2024 18:10:26 UTC
 <!--END_SECTION:waka-->
