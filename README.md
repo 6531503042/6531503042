@@ -138,7 +138,7 @@ Others:
 
 **🐱 My GitHub Data** 
 
-> 📦 737.4 kB Used in GitHub's Storage 
+> 📦 737.5 kB Used in GitHub's Storage 
  > 
 > 🏆 1,031 Contributions in the Year 2024
  > 
@@ -175,16 +175,16 @@ Sunday                   491 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Sport-Complex            51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -200,5 +200,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2024 17:08:50 UTC
+ Last Updated on 07/10/2024 18:12:19 UTC
 <!--END_SECTION:waka-->
