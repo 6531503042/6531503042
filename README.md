@@ -130,7 +130,7 @@ Others:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -138,7 +138,7 @@ Others:
 
 **🐱 My GitHub Data** 
 
-> 📦 740.5 kB Used in GitHub's Storage 
+> 📦 741.6 kB Used in GitHub's Storage 
  > 
 > 🏆 1,151 Contributions in the Year 2024
  > 
@@ -207,5 +207,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2024 16:11:51 UTC
+ Last Updated on 24/10/2024 17:09:03 UTC
 <!--END_SECTION:waka-->
