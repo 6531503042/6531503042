@@ -130,7 +130,7 @@ Others:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -204,5 +204,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2024 16:09:35 UTC
+ Last Updated on 09/11/2024 17:06:14 UTC
 <!--END_SECTION:waka-->
