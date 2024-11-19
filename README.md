@@ -1,5 +1,5 @@
 # Hi, I'm Nimit Tanboontor (Ben_Gi) ✌😄
-<p><em>Studying Software Engineering 2nd Year at <a href="https://en.mfu.ac.th/home.html"> Mae Fah Luang University.
+<p><em>Studying Software Engineering 3rd Year at <a href="https://en.mfu.ac.th/home.html"> Mae Fah Luang University.
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 
 
@@ -12,7 +12,7 @@
 
 <hr> <!-- Horizontal line -->
 
-&#10004;Again, I'm Nimit Tanboontor, but you can call me Ben or Ben-Gi 😁. I'm a 2nd year software engineer student at Mae Fah Luang University who focuses on learning new architectures.
+&#10004;Again, I'm Nimit Tanboontor, but you can call me Ben or Ben-Gi 😁. I'm a 3rd year software engineer student at Mae Fah Luang University & Full Stack Developer (Backend).
 
 &#10007;Yes, I'm a Backend developer, but I'm not focused solely on that. I'm also interested in the world of cloud computing and Data Field and AI. (And I have a bit of Frontend skills too! 😂)
 
