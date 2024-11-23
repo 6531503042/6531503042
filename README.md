@@ -5,8 +5,6 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/thanaphoom-babparn/](https://www.linkedin.com/in/nimit-tanbooutor-798139246/))
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nimittanbooutor)
-![GitHub followers](https://img.shields.io/github/followers/6531503042?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://6531503042.github.io/Portfolio-BenGi/)](https://6531503042.github.io/Portfolio-BenGi/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70"> A little more about me...  
 
@@ -29,43 +27,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2021%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 799.8 kB Used in GitHub's Storage 
- > 
-> 🏆 1,577 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 45 Public Repositories 
- > 
-> 🔑 19 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                288 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-🌆 Daytime                2529 commits        ██████████░░░░░░░░░░░░░░░   38.98 % 
-🌃 Evening                3317 commits        █████████████░░░░░░░░░░░░   51.13 % 
-🌙 Night                  354 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   708 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Tuesday                  1335 commits        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-Wednesday                1056 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Thursday                 930 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Friday                   631 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Saturday                 808 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Sunday                   1020 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -78,10 +39,6 @@ Java                     2 hrs 5 mins        ██░░░░░░░░░�
 JavaScript               1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 Python                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
-🔥 Editors: 
-Cursor                   31 hrs 21 mins      ████████████████████████░   94.14 % 
-VS Code                  1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-
 🐱‍💻 Projects: 
 Sport-Complex            20 hrs 40 mins      ████████████████░░░░░░░░░   62.05 % 
 Bengi_Portfolio          6 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
@@ -92,19 +49,5 @@ bricksocoolxd            31 mins             ░░░░░░░░░░░�
 💻 Operating System: 
 Mac                      33 hrs 18 mins      █████████████████████████   100.00 % 
 ```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     37 repos            █████████████░░░░░░░░░░░░   53.62 % 
-TypeScript               17 repos            ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-```
-
-
-
-
  Last Updated on 23/11/2024 15:09:24 UTC
 <!--END_SECTION:waka-->
