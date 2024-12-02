@@ -25,7 +25,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
 
@@ -101,5 +101,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2024 16:12:57 UTC
+ Last Updated on 02/12/2024 17:11:03 UTC
 <!--END_SECTION:waka-->
