@@ -68,18 +68,16 @@ Sunday                   1071 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JSON                     9 mins              ████████████████████████░   94.29 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bricksocoolxd            9 mins              ████████████████████████░   94.29 % 
-Sport-Complex            0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -95,5 +93,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/12/2024 17:09:18 UTC
+ Last Updated on 19/12/2024 18:13:04 UTC
 <!--END_SECTION:waka-->
