@@ -25,13 +25,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-296%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 824.7 kB Used in GitHub's Storage 
+> 📦 824.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 251 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,5 +101,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/02/2025 07:10:54 UTC
+ Last Updated on 24/02/2025 08:14:18 UTC
 <!--END_SECTION:waka-->
