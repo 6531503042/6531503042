@@ -25,19 +25,21 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-524%20hrs%2043%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 842.7 kB Used in GitHub's Storage 
+> 📦 843.0 kB Used in GitHub's Storage 
  > 
-> 🏆 474 Contributions in the Year 2025
+> 🏆 476 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 55 Public Repositories 
+> 📜 56 Public Repositories 
  > 
-> 🔑 28 Private Repositories 
+> 🔑 29 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -86,15 +88,15 @@ Mac                      18 hrs 40 mins      ███████████�
 **I Mostly Code in Java** 
 
 ```text
-TypeScript               30 repos            ████████░░░░░░░░░░░░░░░░░   32.97 % 
-Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+TypeScript               32 repos            █████████░░░░░░░░░░░░░░░░   34.41 % 
+Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 
 
 
 
- Last Updated on 03/05/2025 05:12:49 UTC
+ Last Updated on 03/05/2025 07:11:27 UTC
 <!--END_SECTION:waka-->
