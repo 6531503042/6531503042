@@ -33,8 +33,6 @@
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 531 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 56 Public Repositories 
@@ -90,5 +88,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2025 10:13:20 UTC
+ Last Updated on 19/05/2025 11:11:42 UTC
 <!--END_SECTION:waka-->
