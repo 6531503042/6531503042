@@ -25,6 +25,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-525%20hrs%2038%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My GitHub Data** 
@@ -86,5 +88,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2025 17:14:23 UTC
+ Last Updated on 01/07/2025 18:17:51 UTC
 <!--END_SECTION:waka-->
