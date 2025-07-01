@@ -25,15 +25,11 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-525%20hrs%2038%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.0 MB Used in GitHub's Storage 
- > 
-> 🏆 733 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,5 +86,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2025 16:16:10 UTC
+ Last Updated on 01/07/2025 17:14:23 UTC
 <!--END_SECTION:waka-->
