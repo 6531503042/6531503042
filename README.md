@@ -10,7 +10,7 @@
 
 <hr> <!-- Horizontal line -->
 
-&#10004;Again, I'm Nimit Tanboontor, but you can call me Ben or Ben-Gi 😁. I'm a 3rd year software engineer student at Mae Fah Luang University & Full Stack Developer (Backend).
+&#10004;Again, I'm Nimit Tanboontor, but you can call me Ben or Ben-Gi 😁. I'm a 4th year software engineer student at Mae Fah Luang University & Full Stack Developer (Backend).
 
 &#10007;Yes, I'm a Backend developer, but I'm not focused solely on that. I'm also interested in the world of cloud computing and Data Field and AI. (And I have a bit of Frontend skills too! 😂)
 
