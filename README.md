@@ -25,6 +25,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-525%20hrs%2038%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
 
 **🐱 My GitHub Data** 
@@ -88,5 +90,5 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2025 17:11:37 UTC
+ Last Updated on 02/11/2025 19:08:10 UTC
 <!--END_SECTION:waka-->
